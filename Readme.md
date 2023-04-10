@@ -22,4 +22,4 @@ And second(main-slide) images:
 
 To adjust slider for your purposes simply change background colors and images.
 
-> Pay attention that backgrounds and images are in reverse order. Last backround corresponds to the first image and so on.
+> Pay attention that backgrounds and images are in reverse order. Last background corresponds to the first image and so on.
