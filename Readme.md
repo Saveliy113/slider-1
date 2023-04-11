@@ -1,5 +1,7 @@
 # Image slider #1
 
+![preview]('https://github.com/Saveliy113/slider-1/blob/master/Slider_1.gif')
+
 This image slider features a clean and modern design with a full-screen layout. Includes navigation arrows that allow the user to manually move between images. It is possible to add any amount of images you want.
 
 # How to use
